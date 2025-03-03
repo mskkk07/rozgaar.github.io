@@ -8,11 +8,23 @@ This project contains a simple HTML form with client-side validation using JavaS
 * **Client-Side Validation:** Uses JavaScript to validate form inputs before submission.
 * **Input Validation:**
     * Username: Required, minimum 4 characters, alphanumeric and underscore only.
+    * ![image](https://github.com/user-attachments/assets/e4169d4f-0b09-48a8-8bcc-0db25cfe034e)
+
     * Password: Required, minimum 6 characters for sign-in, 8 characters for sign-up, with at least one uppercase letter, one lowercase letter, one number, and one special character.
+    * ![image](https://github.com/user-attachments/assets/423fe668-f235-473a-a873-ba6fcd68ea1e)
+
     * Full Name: Required, minimum 3 characters.
+    * ![image](https://github.com/user-attachments/assets/ccc14daa-505e-43e9-bd0d-783a751da020)
+
     * Email: Required, valid email format.
+    * ![image](https://github.com/user-attachments/assets/cf9e7fe8-f133-4b17-a90b-c4eba33bbb31)
+
     * Age: Required, numeric, above 18 and below 120.
+    * ![image](https://github.com/user-attachments/assets/7bb687f0-91a3-472c-b730-4b3717dcb284)
+
     * Phone Number: Required, 10 digits.
+    * ![image](https://github.com/user-attachments/assets/4c610ea9-0ef4-43c4-95c3-c556a7dbbc79)
+
     * Website: Optional, valid URL format.
     * Confirm Password: Must match new password entry.
 * **Error Messages:** Displays clear error messages for invalid inputs.
