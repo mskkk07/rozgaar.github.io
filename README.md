@@ -20,7 +20,9 @@ This project contains a simple HTML form with client-side validation using JavaS
 * ![image](https://github.com/user-attachments/assets/a675f973-ee7a-4426-818b-2a869eb8d75a)
 
 
-* **Success Messages:** Shows success messages upon successful form submission.
+* **Success Messages:** Shows success messages upon successful form submission  and ressets the page.
+* ![image](https://github.com/user-attachments/assets/833ae7bd-47b5-4e04-b74d-c8111f3f94f5)
+
 * **Form Toggling:** Allows users to switch between sign-in and sign-up forms.
 * **Responsive Design:** Utilizes CSS for a clean and responsive layout.
 
