@@ -16,6 +16,10 @@ This project contains a simple HTML form with client-side validation using JavaS
     * Website: Optional, valid URL format.
     * Confirm Password: Must match new password entry.
 * **Error Messages:** Displays clear error messages for invalid inputs.
+* ![image](https://github.com/user-attachments/assets/bb2ea433-d859-4a6d-80f6-a4a8836642c1)
+* ![image](https://github.com/user-attachments/assets/a675f973-ee7a-4426-818b-2a869eb8d75a)
+
+
 * **Success Messages:** Shows success messages upon successful form submission.
 * **Form Toggling:** Allows users to switch between sign-in and sign-up forms.
 * **Responsive Design:** Utilizes CSS for a clean and responsive layout.
@@ -32,7 +36,7 @@ This project contains a simple HTML form with client-side validation using JavaS
     ```bash
     git clone <repository-url>
     ```
-2.  **Open `index.html`:** Open the `index.html` file in your web browser.
+2.  **Open `form.html`:** Open the `form.html` file in your web browser.
 3.  **Interact with the Forms:** Fill out the forms and observe the validation messages.
 4.  **Toggle Forms:** Use the "Sign Up" and "Sign In" links to switch between forms.
 
